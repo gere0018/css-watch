@@ -43,6 +43,7 @@ html {
       background:black;
       position: absolute;
       top:50%;
+      border-radius: 40%;
       /* start the hands at 12 oclock' position */
       transform: rotate(90deg);
       transition: all 0.05s;
